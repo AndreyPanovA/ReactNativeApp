@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>718837354779-lt91oeia6rs66som8ihsuef4ideb0jbl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.718837354779-lt91oeia6rs66som8ihsuef4ideb0jbl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>718837354779-p27859oapqsk4qjfto2a7brdds2m5fqr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCo5nbdcEYJXScejHXoYU19nUR_5itjmQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>718837354779</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.larson.car</string>
+	<key>PROJECT_ID</key>
+	<string>larson-car</string>
+	<key>STORAGE_BUCKET</key>
+	<string>larson-car.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:718837354779:ios:21cc4f490409a40c</string>
+	<key>DATABASE_URL</key>
+	<string>https://larson-car.firebaseio.com</string>
+</dict>
+</plist>
